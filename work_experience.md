@@ -5,14 +5,14 @@ permalink: /work_experience
 ---
 
 ## Experience
-**Company / Role** — Dates  
-1–3 bullets with impact and numbers.
+**Quant Researcher -- Goldman Sachs** — 2024-Present
 
-**Another Role** — Dates  
+
+**Research Scientist -- Stealth Startup** — Dates  
 Bullets…
 
-## Education
-School — Degree
+**Research Scientist -- UCI NLP Group** — Dates  
+Bullets…
 
 ## Skills
 Python, PyTorch, CUDA, GCP, MongoDB, Elasticsearch, …
