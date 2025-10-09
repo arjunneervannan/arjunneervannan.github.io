@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Resume
-permalink: /resume
+title: Work Experience
+permalink: /work_experience
 ---
-
-## Summary
-Brief 2–3 lines about what you do and what you’re great at.
 
 ## Experience
 **Company / Role** — Dates  
