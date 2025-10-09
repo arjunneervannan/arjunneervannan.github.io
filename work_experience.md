@@ -7,7 +7,6 @@ permalink: /work_experience
 ## Experience
 **Quant Researcher -- Goldman Sachs** — 2024-Present
 
-
 **Research Scientist -- Stealth Startup** — Dates  
 Bullets…
 
