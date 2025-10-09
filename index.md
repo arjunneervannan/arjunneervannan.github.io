@@ -15,8 +15,9 @@ I graduated from University of Pennsylvania's M&T Program, where I graduated wit
 
 I was selected as a [Top 10 Finalist](/https://www.societyforscience.org/regeneron-sts/2020-sts-winners/) in the Regeneron Science Talent Search for my work in building a scalable, automated debiasing process for AI model alignment.
 
-- 👉 [Blog](/blog)
-- 👉 [Work Experience](/work_experience)
-- 👉 [Projects](/projects)
+- [Blog](/blog)
+- [Work Experience](/work_experience)
+- [Projects](/projects)
+- [GitHub](https://github.com/arjunneervannan)
 
 Please feel free to [email me](arjun.neervannan@gmail.com)!
