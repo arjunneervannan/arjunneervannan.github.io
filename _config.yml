@@ -1,7 +1,6 @@
 title: "Arjun Neervannan"
 description: "Research engineer — portfolio, blog, and notes"
 theme: jekyll-theme-minimal   # GitHub Pages–supported theme
-logo: /assets/profile.png     # optional
 show_downloads: false
 github:
   is_project_page: false
