@@ -17,7 +17,7 @@ I was selected as a [Top 10 Finalist](https://www.societyforscience.org/regenero
 
 - [Blog](/blog)
 - [Work Experience](/experience)
-- [Projects](/projects)
+- [Independent Research and Projects](/projects)
 - [GitHub](https://github.com/arjunneervannan)
 
 Please feel free to [email me](arjun.neervannan@gmail.com)!
