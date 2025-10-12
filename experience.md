@@ -7,7 +7,7 @@
 - Implemented asynchronous querying/processing architecture in Python using Asyncio for a script that processes 10M+ rows of position data, improving runtime from 4 hours daily to < 5 mins, saving 1000+ hours yearly
 - Built Python-based system with matrix caching deployed in production to compute portfolio risk exposure in batches across 1400+ portfolios, reducing runtime by 100x from prior approach and used in $200M+ sector strategy in Q2 2025 (see below)
 
-**Stealth Startup -- Research Scientist Intern** 2021
+**Stealth Startup -- Research Scientist Intern** 2021 - 2021
 - Built attention-based LSTMs in PyTorch for an AI shopping agent, achieving 99% test accuracy and surpassing prior models
 - Built cleaning/preprocessing pipeline for e-commerce corpus; added dropout, L2, and data augmentation to boost generalization
 - Created interpretable attention visualizations; deployed model via an API that was used in production ML system
