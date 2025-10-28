@@ -14,7 +14,7 @@
 - Expounded upon prior research by testing system prompts, in addition to one-shot, few-shot, and CoT prompting
 - Research indicated that CoT prompts reduced the amount of hallucination, as measured by seq-log probability and Shannon Entropy
 
-**Debiasing Language Models to Reduce ** 2018-2020
+**Debiasing Language Models to Reduce Bias in Language Models** 2018-2020
 - Identified faulty moderation in online forums on sensitive discussions about race and gender, which inspired an independent research project on AI for safer debate; awarded Top 10 Regeneron STS Finalist, presented work at RE-WORK conference
 - Built attention-based LSTM classifier with GloVe embeddings in Tensorflow/Keras and Python preprocessing/tokenizing pipeline
 - Collaborated with Prof. Sameer Singh (UCI NLP) on a debiasing data augmentation process, reducing false positive bias by 44%
