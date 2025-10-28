@@ -4,7 +4,6 @@ title: Home
 ---
 
 # Hi, I'm Arjun!
-I build AI systems and write about engineering and research.
 
 I'm currently a quantitative researcher at Goldman Sachs on a team of 10 managing $250B, where I primarily specialize in the following:
 - Develop AI scientists that conduct new research
