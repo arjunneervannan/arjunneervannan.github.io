@@ -1,11 +1,13 @@
 # Work Experience
 
 **Goldman Sachs -- Quant Researcher** 2024 - Present
-
-- Built a distributed, concurrent architecture for risk monitoring software in Python using Dask & Asyncio to systematically flag high-risk assets across $250B+, reducing runtime from ~3 hours to 20 mins and directly impacting PnL by $10M+
-- Engineered ETL pipeline in Python to convert 1000+ daily free-text unstructured client inputs into structured formats, reducing error rates from ~5% to <0.1%, increasing PnL by $5M+ and reducing 1000+ hours yearly of manual data entry
-- Implemented asynchronous querying/processing architecture in Python using Asyncio for a script that processes 10M+ rows of position data, improving runtime from 4 hours daily to < 5 mins, saving 1000+ hours yearly
-- Built Python-based system with matrix caching deployed in production to compute portfolio risk exposure in batches across 1400+ portfolios, reducing runtime by 100x from prior approach and used in $200M+ sector strategy in Q2 2025 (see below)
+- Develop Goldman Sachs’ first AI Scientist, a multi-agent framework that autonomously conducts end-to-end quant research
+- Implement evaluation loop where (1) a Research Agent initiates a multi-step plan given existing literature, a research question, and a dataset, (2) an Implementation Agent implements and debugs code in a controlled Jupyter notebook environment, and (3) the Research Agent interprets the results, reflects on the plan, and explores future research directions
+- Design code correctness and statistical model verification systems to ensure research reproducibility
+- Built a distributed risk monitoring software in Python using Dask & Asyncio to process 70k+ daily portfolio optimizations and systematically flag high-risk assets, reducing runtime from ~3 hours to 20 mins and directly impacting PnL by $10M+
+- Engineered data pipeline in Python to convert 1000+ daily free-text unstructured client inputs into structured formats, decrease error rate from ~5% to <0.1%, increasing PnL by $5M+ and reducing 1000+ hours yearly of manual data entry
+- Implemented async architecture in Python to query 10M+ rows of position data, cutting runtime from 4 hours to 5 mins
+- Training Laplacian graph learning models to model cross-asset momentum effects
 
 **Stealth Startup -- Research Scientist Intern** 2021 - 2021
 - Built attention-based LSTMs in PyTorch for an AI shopping agent, achieving 99% test accuracy and surpassing prior models
