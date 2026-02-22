@@ -5,11 +5,12 @@ title: Home
 
 # Hi, I'm Arjun!
 
-I'm currently a quantitative researcher at Goldman Sachs on a team of 10 managing $250B, where I primarily specialize in the following:
+I’m a Quantitative Researcher at Goldman Sachs, where I co-founded and lead an internal reinforcement learning research lab within a $300B+ systematic investing platform.- Founded Goldman Sachs’ first reinforcement learning research lab, within a $300B+ quant investing business.
 
-- Develop AI Scientists that conduct novel quant research
-- Build robust distributed and asynchronous software infra & data pipelines
-- Conduct quant research for new strategies
+Some of my projects include the following:
+- Built a modular RL training framework using VERL, Ray, vLLM, and PyTorch, now adopted as the firm-wide library for RL research
+- Train Qwen3 models to trade (currently being evalauted in live trading workflows)
+- Develop an AI Scientist capable of doing month-long research projects in minutes
 
 I graduated from University of Pennsylvania's M&T Program, where I graduated with a Master's in Electrical Engineering and two Bachelor's degrees in Computer Science and Finance. In particular, I focused on Math and Deep Learning, including Principles of Deep Learning, Measure Theory, Stochastic Calculus, and Quantum Mechanics.
 
