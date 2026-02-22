@@ -5,7 +5,7 @@ title: Home
 
 # Hi, I'm Arjun!
 
-I’m a Quantitative Researcher at Goldman Sachs, where I co-founded and lead an internal reinforcement learning research lab within a $300B+ systematic investing platform.- Founded Goldman Sachs’ first reinforcement learning research lab, within a $300B+ quant investing business.
+I’m a Quantitative Researcher at Goldman Sachs, where I co-founded and lead an internal reinforcement learning research lab within a $300B+ quant investing business.
 
 Some of my projects include the following:
 - Built a modular RL training framework using VERL, Ray, vLLM, and PyTorch, now adopted as the firm-wide library for RL research
