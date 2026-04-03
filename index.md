@@ -5,7 +5,7 @@ layout: default
 # Arjun Neervannan
 
 <div class="bio" markdown="1">
-Quantitative researcher and engineer. Pioneered reinforcement learning at Goldman Sachs, running the firm's first large-scale post-training runs -- now deployed in production trading workflows. Interested in RL, continual learning, and building AI systems that do real research autonomously.
+Researcher interested in world models, macroeconomics, and investing.
 </div>
 
 <div class="section">
@@ -18,9 +18,9 @@ Quantitative researcher and engineer. Pioneered reinforcement learning at Goldma
 </div>
 
 <div class="entry" markdown="1">
-<span class="entry-title">Quantitative Researcher & Portfolio Manager; Goldman Sachs</span>
+<span class="entry-title">Quantitative Researcher; Goldman Sachs</span>
 <br>
-<span class="entry-desc">Co-founded and led an internal AI research lab within a $300B+ quant equity business. Pioneered large-scale RL post-training at the firm, building frameworks now used in production trading. Built AI Scientists for automated quant research.</span>
+<span class="entry-desc">Portfolio manager for a $300B+ quant equity business. Led an internal AI research lab, building agentic traders and AI scientists processing $1B+ in daily production trades. Pioneered RL post-training at GS, building the firm-wide RL training library.</span>
 </div>
 
 <div class="entry" markdown="1">
@@ -35,6 +35,12 @@ Quantitative researcher and engineer. Pioneered reinforcement learning at Goldma
 <span class="entry-desc">NLP and RL research with Prof. Sameer Singh. <a href="https://www.societyforscience.org/regeneron-sts/2020-sts-winners/">Top 10 Regeneron STS Finalist</a> for automated debiasing in AI alignment.</span>
 </div>
 
+<div class="entry" markdown="1">
+<span class="entry-title">Carnatic Violinist</span>
+<br>
+<span class="entry-desc">Indian Classical Violinist; performed 50+ duet violin concerts worldwide.</span>
+</div>
+
 </div>
 
 <div class="section">
@@ -43,7 +49,7 @@ Quantitative researcher and engineer. Pioneered reinforcement learning at Goldma
 <div class="entry" markdown="1">
 <span class="entry-title">University of Pennsylvania; M&T Program</span>
 <br>
-<span class="entry-desc">M.S.E. Electrical Engineering, B.S.E. Computer Science, B.S. Finance. Deep learning, measure theory, stochastic calculus.</span>
+<span class="entry-desc">M.S.E. Electrical Engineering, B.S.E. Computer Science, B.S. Finance. Focused on deep learning, probability theory, and optimization theory.</span>
 </div>
 
 </div>
