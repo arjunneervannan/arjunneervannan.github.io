@@ -32,7 +32,7 @@ Researcher interested in world models, reinforcement learning, and macro investi
 <div class="entry" markdown="1">
 <span class="entry-title">Researcher; UCI NLP Group</span>
 <br>
-<span class="entry-desc">NLP and RL research with Prof. Sameer Singh. <a href="https://www.societyforscience.org/regeneron-sts/2020-sts-winners/">Top 10 Regeneron STS Finalist</a> for automated debiasing in AI alignment.</span>
+<span class="entry-desc">NLP and RL research with Prof. Sameer Singh. <a href="https://www.societyforscience.org/regeneron-sts/2020-sts-winners/">Top 10 Regeneron STS Finalist</a> for research in interpretability and automated debiasing for Language Models.</span>
 </div>
 
 <div class="entry" markdown="1">
