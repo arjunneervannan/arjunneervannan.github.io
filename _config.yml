@@ -1,18 +1,4 @@
 title: "Arjun Neervannan"
-remote_theme: ankitsultana/researcher
-plugins:
-  - jekyll-remote-theme
-
 url: "https://arjunneervannan.github.io"
 baseurl: ""
-
 markdown: kramdown
-show_downloads: false
-
-github:
-  is_project_page: false
-  is_user_page: true
-
-nav:
-  - name: "About"
-    link: "/"
