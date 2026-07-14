@@ -14,13 +14,13 @@ Researcher interested in reinforcement learning, environment scaling, and LLM fo
 <div class="entry" markdown="1">
 <span class="entry-title">Researcher; Fleet AI</span>
 <br>
-<span class="entry-desc">Scaling RL environment generation.</span>
+<span class="entry-desc">Research on synthetic RL environments, environment scaling, and evals. Built a self-play task generation platform producing 1,500+ frontier-hard tasks across 30+ environments, deployed to frontier labs. Published <a href="https://openreview.net/forum?id=TaOQd4cmKg">MacroBench</a>, Fleet's first research paper.</span>
 </div>
 
 <div class="entry" markdown="1">
 <span class="entry-title">Quantitative Researcher; Goldman Sachs</span>
 <br>
-<span class="entry-desc">Portfolio manager for a $300B+ quant equity business. Led an internal AI research lab, building agentic traders and AI scientists processing $1B+ in daily production trades. Pioneered RL post-training at GS, building the firm-wide RL training library.</span>
+<span class="entry-desc">AI research lead for a $300B+ quant equity business. Built Goldman's first production agentic traders and AI scientists, along with the firm-wide async RL training library (VeRL/Ray). Worked with senior leadership to set AI strategy for GSAM.</span>
 </div>
 
 <div class="entry" markdown="1">
