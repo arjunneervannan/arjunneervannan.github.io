@@ -14,7 +14,7 @@ Researcher interested in reinforcement learning, environment scaling, and LLM fo
 <div class="entry" markdown="1">
 <span class="entry-title">Researcher; Fleet AI</span>
 <br>
-<span class="entry-desc">Research on synthetic RL environments, environment scaling, and evals. Built a self-play task generation platform producing 1,500+ frontier-hard tasks across 30+ environments, deployed to frontier labs. Published <a href="https://openreview.net/forum?id=TaOQd4cmKg">MacroBench</a>, Fleet's first research paper.</span>
+<span class="entry-desc">Research and deployments to frontier labs on synthetic RL environments, environment scaling, and evals. Built a self-play task generation platform producing 1,500+ frontier-hard tasks across 30+ environments. Published <a href="https://openreview.net/forum?id=TaOQd4cmKg">MacroBench</a>, Fleet's first research paper.</span>
 </div>
 
 <div class="entry" markdown="1">
@@ -65,7 +65,7 @@ Researcher interested in reinforcement learning, environment scaling, and LLM fo
 </div>
 
 <div class="entry" markdown="1">
-<span class="entry-title"><a href="https://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/6_4_02_Neervannan.pdf">Policy Gradient Methods for Locomotion</a>; Baltic Journal of Modern Computing</span>
+<span class="entry-title"><a href="https://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/6_4_02_Neervannan.pdf">Policy Gradient Methods for Locomotion</a></span>
 <br>
 <span class="entry-desc">Trained policy-gradient agents (TRPO/PPO) to walk in OpenAI Gym; published with guidance from Prof. Alex Ihler.</span>
 </div>
