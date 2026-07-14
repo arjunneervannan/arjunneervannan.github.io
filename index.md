@@ -5,7 +5,7 @@ layout: default
 # Arjun Neervannan
 
 <div class="bio" markdown="1">
-Researcher interested in world models, reinforcement learning, and macro investing.
+Researcher interested in reinforcement learning, environment scaling, and LLM forecasting.
 </div>
 
 <div class="section">
