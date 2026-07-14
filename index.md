@@ -14,7 +14,7 @@ Researcher interested in reinforcement learning, environment scaling, and LLM fo
 <div class="entry" markdown="1">
 <span class="entry-title">Researcher; Fleet AI</span>
 <br>
-<span class="entry-desc">Research and deployments to frontier labs on synthetic RL environments, environment scaling, and evals. Built a self-play task generation platform producing 1,500+ frontier-hard tasks across 30+ environments. Published <a href="https://openreview.net/forum?id=TaOQd4cmKg">MacroBench</a>, Fleet's first research paper.</span>
+<span class="entry-desc">Research and deployments to frontier labs on synthetic RL environments, environment scaling, and evals.</span>
 </div>
 
 <div class="entry" markdown="1">
