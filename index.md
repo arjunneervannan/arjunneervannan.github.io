@@ -44,6 +44,35 @@ Researcher interested in reinforcement learning, environment scaling, and LLM fo
 </div>
 
 <div class="section">
+<div class="section-label">Research & Projects</div>
+
+<div class="entry" markdown="1">
+<span class="entry-title"><a href="https://openreview.net/forum?id=TaOQd4cmKg">MacroBench</a>; ICML Forecasting Workshop 2026</span>
+<br>
+<span class="entry-desc">Benchmarked frontier LLMs on macro forecasting; introduced trace analysis and entropy-based filters that detect reward hacking.</span>
+</div>
+
+<div class="entry" markdown="1">
+<span class="entry-title"><a href="https://github.com/arjunneervannan/Minimap">Minimap</a>; Autonomous Drone Navigation</span>
+<br>
+<span class="entry-desc">Flight software that autonomously flew a fixed-wing drone along GUI-selected waypoints, with swarm path-planning simulations.</span>
+</div>
+
+<div class="entry" markdown="1">
+<span class="entry-title"><a href="https://www.societyforscience.org/regeneron-sts/2020-sts-winners/">Automated Debiasing for Toxicity Detection</a>; Regeneron STS Top-10 Finalist</span>
+<br>
+<span class="entry-desc">NLP system that flags toxic moderation failures in online debates; debiasing data augmentation cut false-positive bias by 44%.</span>
+</div>
+
+<div class="entry" markdown="1">
+<span class="entry-title"><a href="https://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/6_4_02_Neervannan.pdf">Policy Gradient Methods for Locomotion</a>; Baltic Journal of Modern Computing</span>
+<br>
+<span class="entry-desc">Trained policy-gradient agents (TRPO/PPO) to walk in OpenAI Gym; published with guidance from Prof. Alex Ihler.</span>
+</div>
+
+</div>
+
+<div class="section">
 <div class="section-label">Education</div>
 
 <div class="entry" markdown="1">
